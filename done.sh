@@ -1,5 +1,8 @@
 #!/system/bin/sh
 
+# Thanks to Xeon1989 for providing the base script for all the X50 users to use.
+# Modified by: sudo-monkey 
+
 # Log filename setup
 logfilename="outputBootReplace_"
 timestamp="$(date +%s)"
